@@ -29,3 +29,6 @@ this directory contains scripts used to change permissions
 13-change_group is a script used to change the group owner of the file hello
 
 14-change_owner_and_group is a script used to change the owner to vincent and group owner to staff for all files and directories in the directory
+
+15-symbolic_link_permissions is a script used to change the owner and group owner of the symbolic link _hello
+
