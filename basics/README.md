@@ -19,3 +19,5 @@ The basics of shell and scripts that do the work for you.
 8-firstdelete is a script that once run, will delete the betty file from tmp/my_first_directory
 
 9-firstdirdeletion is a script that once run, will delete the my_first_directory directory from tmp
+
+10-back is a script that once run, will go back to the previous directory
