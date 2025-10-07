@@ -13,3 +13,5 @@ The basics of shell and scripts that do the work for you.
 5-listfilesdigitonly is a script that when run, will display files numerically in long format
 
 6-firstdirectory is a script that when run, will create a directory in /tmp called my_first_directory
+
+7-movethatfile is a script that when it's run, will move the file betty from tmp to /tmp/my_first_directory
