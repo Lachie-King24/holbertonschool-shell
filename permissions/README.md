@@ -4,3 +4,5 @@ this directory contains scripts used to change permissions
 
 1-who_am_i is a script used to print the username of the current user
 
+2-groups is a script used to display the groups the current user is a part of
+
