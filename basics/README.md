@@ -17,3 +17,5 @@ The basics of shell and scripts that do the work for you.
 7-movethatfile is a script that when it's run, will move the file betty from tmp to /tmp/my_first_directory
 
 8-firstdelete is a script that once run, will delete the betty file from tmp/my_first_directory
+
+9-firstdirdeletion is a script that once run, will delete the my_first_directory directory from tmp
