@@ -27,3 +27,5 @@ this directory contains scripts used to change permissions
 12-directory_permissions is a script used to create a directory called my_dir with permissions 751
 
 13-change_group is a script used to change the group owner of the file hello
+
+14-change_owner_and_group is a script used to change the owner to vincent and group owner to staff for all files and directories in the directory
