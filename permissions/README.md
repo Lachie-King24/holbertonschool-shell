@@ -14,3 +14,5 @@ this directory contains scripts used to change permissions
 
 6-multiple_permissions is a script used to add execute to the owner and group owner and read permssion to others for the hello file
 
+7-everybody is a script used to give all users the execute permissions
+
