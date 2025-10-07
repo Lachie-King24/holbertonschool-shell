@@ -21,3 +21,5 @@ this directory contains scripts used to change permissions
 9-John_Doe is a script used to give all permisions to the owner, read and execute to the group owner, and write and execute to others
 
 10-mirror_permissions is a script used to copy the permissions from the olleh file to the hello file
+
+11-directories_permissions is a script used to add execute permissions to all subdirectories of the current directory.
