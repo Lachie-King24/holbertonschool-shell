@@ -10,3 +10,4 @@ this directory contains scripts used to change permissions
 
 4-empty is a script used to create an empty file called hello
 
+5-execute is a script used to add the permission to execute to the owner for the file hello
