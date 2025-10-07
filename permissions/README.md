@@ -23,3 +23,6 @@ this directory contains scripts used to change permissions
 10-mirror_permissions is a script used to copy the permissions from the olleh file to the hello file
 
 11-directories_permissions is a script used to add execute permissions to all subdirectories of the current directory.
+
+12-directory_permissions is a script used to create a directory called my_dir with permissions 751
+
