@@ -23,3 +23,5 @@ The basics of shell and scripts that do the work for you.
 10-back is a script that once run, will go back to the previous directory
 
 11-lists is a script that once run, will list all contents of the current, parent, and boot directories, in that order
+
+12-file_type is a script that once run, will print the contents of iamafile from tmp
