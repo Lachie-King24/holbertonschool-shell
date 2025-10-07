@@ -18,3 +18,4 @@ this directory contains scripts used to change permissions
 
 8-James_Bond is a script used to give all permissions to other users, and none to the owner or group owner.
 
+9-John_Doe is a script used to give all permisions to the owner, read and execute to the group owner, and write and execute to others
