@@ -11,3 +11,6 @@ this directory contains scripts used to change permissions
 4-empty is a script used to create an empty file called hello
 
 5-execute is a script used to add the permission to execute to the owner for the file hello
+
+6-multiple_permissions is a script used to add execute to the owner and group owner and read permssion to others for the hello file
+
