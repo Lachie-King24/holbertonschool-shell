@@ -16,3 +16,5 @@ this directory contains scripts used to change permissions
 
 7-everybody is a script used to give all users the execute permissions
 
+8-James_Bond is a script used to give all permissions to other users, and none to the owner or group owner.
+
