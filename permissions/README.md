@@ -32,3 +32,4 @@ this directory contains scripts used to change permissions
 
 15-symbolic_link_permissions is a script used to change the owner and group owner of the symbolic link _hello
 
+16-if_only is a script used to change the owner of the file hello to vincent only if it is currently owned by guillaume
