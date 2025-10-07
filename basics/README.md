@@ -27,3 +27,5 @@ The basics of shell and scripts that do the work for you.
 12-file_type is a script that once run, will print the contents of iamafile from tmp
 
 13-symbolic_link is a script that once run, will create a symbolic link to /bin/ls named __ls__
+
+14-copy_html is a script that will copy all non existent or newer files into the parent directory from the current directory
