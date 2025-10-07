@@ -31,3 +31,5 @@ The basics of shell and scripts that do the work for you.
 14-copy_html is a script that will copy all non existent or newer files into the parent directory from the current directory
 
 15-lets_move is a script that will move all files that begin with a capital letter to /tmp/u
+
+16-clean_emacs is a script that will delete all files in the current directory ending with the character ~
