@@ -33,3 +33,5 @@ The basics of shell and scripts that do the work for you.
 15-lets_move is a script that will move all files that begin with a capital letter to /tmp/u
 
 16-clean_emacs is a script that will delete all files in the current directory ending with the character ~
+
+17-tree is a script that will create /welcome /welcome/to and /welcome/to/school in the current directory
