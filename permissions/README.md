@@ -6,3 +6,5 @@ this directory contains scripts used to change permissions
 
 2-groups is a script used to display the groups the current user is a part of
 
+3-new_owner is a script used to change the owner of the file hello to the user betty
+
