@@ -8,3 +8,5 @@ this directory contains scripts used to change permissions
 
 3-new_owner is a script used to change the owner of the file hello to the user betty
 
+4-empty is a script used to create an empty file called hello
+
