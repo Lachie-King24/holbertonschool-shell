@@ -15,3 +15,5 @@ The basics of shell and scripts that do the work for you.
 6-firstdirectory is a script that when run, will create a directory in /tmp called my_first_directory
 
 7-movethatfile is a script that when it's run, will move the file betty from tmp to /tmp/my_first_directory
+
+8-firstdelete is a script that once run, will delete the betty file from tmp/my_first_directory
