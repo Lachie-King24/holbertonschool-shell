@@ -18,3 +18,5 @@ This directory contains scripts that use redirections and filters
 
 8-cwd_state is a script that writes the result of the command ls -la into a file called ls_cwd_content. if it doesn't exist, it will be created and if it does exist, it will be overwritten
 
+9-duplicate_last_line is a script that duplicates the last line of the file iacta
+
