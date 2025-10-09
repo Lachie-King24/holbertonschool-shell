@@ -32,3 +32,5 @@ This directory contains scripts that use redirections and filters
 
 15-countthatword is a script that displays the number of lines that contain the pattern "bin" in /etc/passwd
 
+16-whatsnext is a script that displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
+
