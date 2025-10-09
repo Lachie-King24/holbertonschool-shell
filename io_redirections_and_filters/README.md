@@ -22,3 +22,5 @@ This directory contains scripts that use redirections and filters
 
 10-no_more_js is a script that deletes all regular files with a .js extension that are present in the current directory, and it's subfolders
 
+11-directories is a script that counts the number of directories and sub-directories in the current directory
+
