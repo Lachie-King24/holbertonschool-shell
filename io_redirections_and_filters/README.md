@@ -28,3 +28,4 @@ This directory contains scripts that use redirections and filters
 
 13-unique is a script that takes a list of words as input and prints only words that apear exactly once
 
+14-findthathard is a script that displays the lines containing the pattern "root" from the file /etc/passwd
