@@ -13,3 +13,6 @@ This directory contains scripts that use redirections and filters
 5-firstlines is a script that displays the first 10 lines of /etc/passwd
 
 6-third_line is a script that displays the third line of the file iacta
+
+7-file is a script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) that includes the text Best School, including a new line at the end of it
+
