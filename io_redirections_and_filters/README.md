@@ -40,3 +40,5 @@ This directory contains scripts that use redirections and filters
 
 19-AZ is a script that replaces A with Z and c with e
 
+20-hiago is a script that removes all letters c and C
+
