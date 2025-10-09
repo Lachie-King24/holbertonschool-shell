@@ -16,3 +16,5 @@ This directory contains scripts that use redirections and filters
 
 7-file is a script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) that includes the text Best School, including a new line at the end of it
 
+8-cwd_state is a script that writes the result of the command ls -la into a file called ls_cwd_content. if it doesn't exist, it will be created and if it does exist, it will be overwritten
+
