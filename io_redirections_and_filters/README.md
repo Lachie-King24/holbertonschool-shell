@@ -10,3 +10,5 @@ This directory contains scripts that use redirections and filters
 
 4-lastlines is a script that displays the last 10 lines of /etc/passwd
 
+5-firstlines is a script that displays the first 10 lines of /etc/passwd
+
