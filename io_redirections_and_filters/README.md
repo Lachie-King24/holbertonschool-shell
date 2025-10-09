@@ -38,3 +38,5 @@ This directory contains scripts that use redirections and filters
 
 18-letteronly is a script to display all lines of the file /etc/ssh/ssh_confiq starting with a letter. including capitals
 
+19-AZ is a script that replaces A with Z and c with e
+
