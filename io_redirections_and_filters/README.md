@@ -36,3 +36,5 @@ This directory contains scripts that use redirections and filters
 
 17-hidethisword is a script to display all the lines in the file /etc/passwd that do not contain the pattern "bin"
 
+18-letteronly is a script to display all lines of the file /etc/ssh/ssh_confiq starting with a letter. including capitals
+
