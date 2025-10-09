@@ -20,3 +20,5 @@ This directory contains scripts that use redirections and filters
 
 9-duplicate_last_line is a script that duplicates the last line of the file iacta
 
+10-no_more_js is a script that deletes all regular files with a .js extension that are present in the current directory, and it's subfolders
+
