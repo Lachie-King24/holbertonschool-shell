@@ -26,3 +26,5 @@ This directory contains scripts that use redirections and filters
 
 12-newest_files is a script that displays the 10 newest files in the current directory
 
+13-unique is a script that takes a list of words as input and prints only words that apear exactly once
+
