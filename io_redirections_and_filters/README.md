@@ -44,3 +44,4 @@ This directory contains scripts that use redirections and filters
 
 21-reverse is a script that reverses the input
 
+22-users_and_home is a script that displays all users and their home directories, sorted by users. based on the /etc/passwd file
