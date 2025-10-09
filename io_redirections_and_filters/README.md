@@ -42,3 +42,5 @@ This directory contains scripts that use redirections and filters
 
 20-hiago is a script that removes all letters c and C
 
+21-reverse is a script that reverses the input
+
