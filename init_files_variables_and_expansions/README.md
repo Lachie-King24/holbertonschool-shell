@@ -12,3 +12,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 5-local_variables is a script that lists all variables, including env variables
 
+6-create_local_variable is a script that creates a local variable called BEST, with the value School
+
