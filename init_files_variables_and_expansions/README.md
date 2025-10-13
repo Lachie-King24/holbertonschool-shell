@@ -6,3 +6,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 2-path is a script that adds /action to the end of the $PATH
 
+3-paths is a script that counts the number of directories in PATH
+
