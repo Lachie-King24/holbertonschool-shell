@@ -26,3 +26,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 12-combinations is a script that prints all possible combinations of 2 letters, excluding oo. lowercase only, one combination per line
 
+13-print_float is a script that prints a number with two decimal places
+
