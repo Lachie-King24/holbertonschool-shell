@@ -10,3 +10,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 4-global_variables is a script that lists environment variables
 
+5-local_variables is a script that lists all variables, including env variables
+
