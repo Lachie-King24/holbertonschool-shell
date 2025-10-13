@@ -24,3 +24,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 11-binary_to_decimal is a script that converts a number within BINARY to base 10 (decimal)
 
+12-combinations is a script that prints all possible combinations of 2 letters, excluding oo. lowercase only, one combination per line
+
