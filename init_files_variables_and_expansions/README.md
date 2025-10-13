@@ -8,3 +8,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 3-paths is a script that counts the number of directories in PATH
 
+4-global_variables is a script that lists environment variables
+
