@@ -14,3 +14,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 6-create_local_variable is a script that creates a local variable called BEST, with the value School
 
+7-create_global_variable is a script that creates a global variable called BEST, with the value School
+
