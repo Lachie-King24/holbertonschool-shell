@@ -18,3 +18,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 8-true_knowledge is a script that prints the result of TRUEKNOWLEDGE with an adition of 128
 
+9-divide_and_rule is a script that prints the result of POWER divided by DIVIDE, followed by a new line
+
