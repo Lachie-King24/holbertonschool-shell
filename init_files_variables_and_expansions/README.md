@@ -20,3 +20,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 9-divide_and_rule is a script that prints the result of POWER divided by DIVIDE, followed by a new line
 
+10-love_exponent_breath is a script that displays the result of BREATH to the power LOVE
+
