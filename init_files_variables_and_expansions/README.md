@@ -28,3 +28,4 @@ This is a folder containing scripts that perform variables and expansions tools
 
 13-print_float is a script that prints a number with two decimal places
 
+14-decimal_to_hexadecimal is a script that converts a number from base 10 to base 16
