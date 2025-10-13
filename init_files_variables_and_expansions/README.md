@@ -16,3 +16,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 7-create_global_variable is a script that creates a global variable called BEST, with the value School
 
+8-true_knowledge is a script that prints the result of TRUEKNOWLEDGE with an adition of 128
+
