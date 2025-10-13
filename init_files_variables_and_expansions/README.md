@@ -22,3 +22,5 @@ This is a folder containing scripts that perform variables and expansions tools
 
 10-love_exponent_breath is a script that displays the result of BREATH to the power LOVE
 
+11-binary_to_decimal is a script that converts a number within BINARY to base 10 (decimal)
+
